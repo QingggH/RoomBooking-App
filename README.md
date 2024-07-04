@@ -1,6 +1,8 @@
 # RoomBooking-App
-### This is a MERN stack project. 
+### 1. This is a MERN stack project. 
 * Front-end : React.js
 * Back-end: Express.js
 * Database: MongoDB
-### [Video Demo](https://www.youtube.com/shorts/Fotr1I2RghQ)
+### 2. [Video Demo](https://www.youtube.com/shorts/Fotr1I2RghQ)
+### 3. Functions
+* Booking 
