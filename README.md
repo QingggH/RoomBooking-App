@@ -4,5 +4,3 @@
 * Back-end: Express.js
 * Database: MongoDB
 ### 2. [Video Demo](https://www.youtube.com/shorts/Fotr1I2RghQ)
-### 3. Functions
-* Booking 
