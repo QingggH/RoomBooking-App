@@ -11,15 +11,19 @@
 ### 3. Function
 * Search for rooms
   ![searching-rooms](./images/searchingrooms.png)
+
   
 * Results of searching
   ![searching-result](./images/searching-result.png)
+
   
 * Room details including location on the map
   ![booking-deatails](./images/booking-details.png)
+
   
 * Payment
   ![payment](./images/payment.png)
+
   
 * Profile of a guest
   ![profile](./images/profile1.png)
