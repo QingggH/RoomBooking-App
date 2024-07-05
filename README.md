@@ -18,7 +18,7 @@
 
   
 * Room details including location on the map
-  ![booking-deatails](./images/booking-details.png)
+  ![booking-deatails](./images/bookingdetails.png)
 
   
 * Payment
