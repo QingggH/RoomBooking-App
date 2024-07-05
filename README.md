@@ -30,6 +30,8 @@
   ![profile](./images/profile2.png)
 
 
-* Hosts manage their posts
-  ![room-management](./images/room-management1.png)
-  ![room-management](./images/room-management2.png)
+* Hosts view their rooms posted
+  ![room-management](./images/view-rooms.png)
+
+* Hosts add a new room
+  ![room-management](./images/adding-newroom.png)
