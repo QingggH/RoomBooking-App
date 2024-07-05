@@ -8,7 +8,7 @@
 ### 2. Demo
 * [Video Demo - guests](https://www.youtube.com/watch?v=GyCaTYoBsdo&t=14s)
 * [Video Demo - hosts](https://www.youtube.com/watch?v=YfQ3RN2fCbU)
-### 3. Function
+### 3. Function Examples
 * Search for rooms
   ![searching-rooms](./images/searchingrooms.png)
 
@@ -28,3 +28,8 @@
 * Profile of a guest
   ![profile](./images/profile1.png)
   ![profile](./images/profile2.png)
+
+
+* Hosts manage their posts
+  ![room-management](./images/room-management1.png)
+  ![room-management](./images/room-management2.png)
