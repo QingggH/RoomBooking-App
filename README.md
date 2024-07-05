@@ -10,4 +10,4 @@
 * [Video Demo - hosts](https://www.youtube.com/watch?v=YfQ3RN2fCbU)
 ### 3. Function
 * Search for rooms
-  * dgdgf 
+  ![searching-rooms](./images/searching-rooms.png)
